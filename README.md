@@ -1,0 +1,2 @@
+# InputStyles
+For example
